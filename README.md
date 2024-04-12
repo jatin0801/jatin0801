@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jatin0801
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AI/ML
 - 📫 How to reach me jatinchhabria00@gmail.com
 
 <!---
